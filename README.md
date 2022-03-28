@@ -97,7 +97,7 @@ This is a Python implementation of 3-D Minesweeper!
 
 The game is played by revealing squares of the grid by clicking or otherwise indicating each square. If a square containing a mine is revealed, the player loses the game. If no mine is revealed, a digit is instead displayed in the square, indicating how many adjacent squares contain mines; if no mines are adjacent, the square becomes blank, and all adjacent squares will be recursively revealed. The player uses this information to deduce the contents of other squares and may either safely reveal each square or mark the square as containing a mine
 
- <img src="gamegui.png">
+ <img src="gamegui.PNG">
 
 
 ### Module used
@@ -121,6 +121,6 @@ Do not Delete any images Files or IT MAY CRASH THE GAME!
 1. Clone or download repositiory: https://github.com/arevish/minesweeperGUI.git
 2. In source folder, run `python3 'tr.py'` to start program, optionally, run with `--help` argument to see other runtime options.
 
- <img src="minesweeperGUI/images/flag.png" width="200" height="200">
+ <img src="minesweeperGUI/images/flag.PNG" width="200" height="200">
  
 ### ThankYou!
