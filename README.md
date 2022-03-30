@@ -121,6 +121,6 @@ Do not Delete any images Files or IT MAY CRASH THE GAME!
 1. Clone or download repositiory: https://github.com/arevish/minesweeperGUI.git
 2. In source folder, run `python3 'tr.py'` to start program, optionally, run with `--help` argument to see other runtime options.
 
- <img src="minesweeperGUI/images/flag.PNG" width="200" height="200">
+ <img src="minesweeperGUI/images/flag.png" width="200" height="200">
  
 ### ThankYou!
